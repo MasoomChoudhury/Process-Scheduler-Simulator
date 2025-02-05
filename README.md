@@ -180,5 +180,3 @@ Potential future enhancements for this project include:
 ## Conclusion
 
 This Process Scheduler Simulator provides a comprehensive platform for understanding and comparing CPU scheduling algorithms. By simulating FCFS and Round Robin scheduling, calculating key performance metrics, and generating insightful visualizations, this project offers valuable insights into operating system principles and the trade-offs involved in algorithm selection.  The modular design and comprehensive documentation make this project a solid foundation for further exploration and expansion in the field of operating system simulation.
-
-**Author:** Cline
