@@ -1,0 +1,7 @@
+build/
+process_scheduler
+*.o
+*.obj
+.vscode/
+*.exe
+*.dSYM
